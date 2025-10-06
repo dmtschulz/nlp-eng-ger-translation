@@ -2,5 +2,5 @@ This project involves developing a machine translation model to automatically tr
 
 Key Highlights:
 
-** Models / Neural Network Architecture: RNN based sequence to sequence models (encoder-decoder), Attention Mechanism, GloVe, Word2Vec
-** Tools: PyTorch, Pandas, Scikit-learn, Jupyter Notebook
+- Models / Neural Network Architecture: RNN based sequence to sequence models (encoder-decoder), Attention Mechanism, GloVe, Word2Vec
+- Tools: PyTorch, Pandas, Scikit-learn, Jupyter Notebook
