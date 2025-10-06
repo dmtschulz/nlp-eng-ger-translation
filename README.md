@@ -4,3 +4,5 @@ Key Highlights:
 
 - Models / Neural Network Architecture: RNN based sequence to sequence models (encoder-decoder), Attention Mechanism, GloVe, Word2Vec
 - Tools: PyTorch, Pandas, Scikit-learn, Jupyter Notebook
+
+Note: No performance scores are provided as the objective was to construct the models. Achieving higher accuracy would require additional computational resources.
